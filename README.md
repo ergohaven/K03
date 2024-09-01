@@ -3,7 +3,7 @@
 ![K:03](images/01.jpg)
 
 ### This repo contains all files related to this keyboard
-PCB and schematic can be found [here](https://oshwlab.com/yuriiq/k03)
+PCB and schematic can be found [here](https://oshwlab.com/yuriiq/k03v1)
 
 ## License 
 
