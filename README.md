@@ -111,3 +111,6 @@ The files in this repository are licensed under the Creative Commons Attribution
 - Source code:
   - wired [QMK](https://github.com/ergohaven/vial-qmk)
   - wireless [RMK](https://github.com/ergohaven/rmk-eh)
+
+## Availability
+The complete keyboard (not a DIY kit) is available for purchase at [eh.industries](https://eh.industries/)
