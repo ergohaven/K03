@@ -32,7 +32,7 @@ K:03 combines futuristic styling, a compact form factor, and practical ergonomic
 ![K:03 v4 WE Layouts](images/K03_WE_en.png)
 
 ## This repository contains all files related to this keyboard
-PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
+PCB and schematic for [K:03 v4](https://oshwlab.com/yuriiq/project_vqxdarna) and [K:03 v4 – Wireless Edition](https://oshwlab.com/yuriiq/project_somqsptz)
 
 ### BOM
 #### K:03 v4
@@ -99,12 +99,12 @@ The files in this repository are licensed under the Creative Commons Attribution
 - K:03 v4:
   - [Case for 3D printing (STL)](stls/k03-v4)
   - [Case model for editing (STEP)](step/k03-v4)
-  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+  - [Circuit schematic](https://oshwlab.com/yuriiq/project_vqxdarna)
 
 - K:03 v4 – Wireless Edition:
   - [Case for 3D printing (STL)](stls/k03-v4-we)
   - [Case model for editing (STEP)](step/k03-v4-we)
-  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+  - [Circuit schematic](https://oshwlab.com/yuriiq/project_somqsptz)
 
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
